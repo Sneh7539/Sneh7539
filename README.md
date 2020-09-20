@@ -1,5 +1,5 @@
 ### Hi, I'm Sneh Ghetiya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-## Your short description
+## Myself in a nutshell
 - 🔭 I’m currently working on - Employee Performance Prediction System
 - 🌱 I’m currently learning - Data Science and Machine Learning
 - 👯 I’m looking to collaborate with - Other developers in community

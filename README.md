@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning - Data Science and Machine Learning
 - 👯 I’m looking to collaborate with - Other developers in community
 - 💬 Ask me about - Anything
-- 🥅 2020 Goal - To pass 2020 as soon a possible.
-- ⚡ Fun fact - Rally awesome singer.
+- 🥅 2020 Goal - To be survive in 2020.
+- ⚡ Fun fact - Verified GitHub User. :smile:
 <!-- Sneh7539 means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
 [![Sneh's github stats](https://github-readme-stats.vercel.app/api?username=Sneh7539&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
